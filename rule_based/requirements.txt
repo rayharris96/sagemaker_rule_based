@@ -7,4 +7,3 @@ requests==2.27.1
 scikit_learn==1.1.2
 tqdm==4.63.0
 flashtext>=2.7<2.9
-loguru~=0.6.0
