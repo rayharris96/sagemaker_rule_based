@@ -1,10 +1,7 @@
 # Build an image that can do training and inference in SageMaker
-# This is a Python 3 image that uses the packages in requirements.txt to serve a rule-based algorithm for course nat recommender
-
-FROM ubuntu:20.04
+FROM python:3.9.15
 
 LABEL org.opencontainers.image.authors="raymond_harris@ssg.gov.sg"
-
 
 RUN apt-get -y update && apt-get install -y --no-install-recommends \
          wget \
