@@ -1,5 +1,5 @@
 # Build an image that can do training and inference in SageMaker
-# This is a Python 3 image that uses the packages in requirements.txt to serve a rule-based algorithm for sea
+# This is a Python 3 image that uses the packages in requirements.txt to serve a rule-based algorithm for course nat recommender
 
 FROM ubuntu:18.04
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
 #This is a placeholder for the inference code
-#TODO import endpoint
+#TODO formularize nat inference endpoint
 
 print("This is a placeholder for inference")
