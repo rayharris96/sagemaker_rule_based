@@ -1,0 +1,10 @@
+gensim==4.2.0
+loguru==0.6.0
+numpy==1.23.3
+pandas==1.4.2
+PyYAML==6.0
+requests==2.27.1
+scikit_learn==1.1.2
+tqdm==4.63.0
+flashtext>=2.7<2.9
+loguru~=0.6.0
